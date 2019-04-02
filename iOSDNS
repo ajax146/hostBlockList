@@ -592,7 +592,6 @@
 0.0.0.0 api.adthor.com
 0.0.0.0 api.airpush.com
 0.0.0.0 api.ampiri.com
-0.0.0.0 api.amplitude.com
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.appodeal.com
@@ -680,7 +679,6 @@
 0.0.0.0 apps.bazaarvoice.com
 0.0.0.0 apps.buzzcity.net
 0.0.0.0 apps.mobilityware.com
-0.0.0.0 apps.mzstatic.com
 0.0.0.0 apps.nexus.bazaarvoice.com
 0.0.0.0 apps.outfit7.com
 0.0.0.0 apps.skype.com
@@ -1589,10 +1587,6 @@
 0.0.0.0 e.crashlytics.com
 0.0.0.0 e.deployads.com
 0.0.0.0 e.qq.com
-0.0.0.0 e10204.dsca.akamaiedge.net
-0.0.0.0 e4478.a.akamaiedge.net
-0.0.0.0 e673.dsce9.akamaiedge.net
-0.0.0.0 e6858.dsce9.akamaiedge.net
 0.0.0.0 eadexchange.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebayadvertising.com
@@ -2890,7 +2884,6 @@
 0.0.0.0 oclaserver.com
 0.0.0.0 oclasrv.com
 0.0.0.0 oconner.biz
-0.0.0.0 ocps.apple.com
 0.0.0.0 ocsp.comodoca.com
 0.0.0.0 ocsp.int-x3.letsencrypt.org
 0.0.0.0 odr.mookie1.com
@@ -3010,7 +3003,6 @@
 0.0.0.0 pbterra.com
 0.0.0.0 pbtngx-u-a-ds.nuggad.net
 0.0.0.0 pcash.imlive.com
-0.0.0.0 pd.itunes.apple.com
 0.0.0.0 pdn.applovin.com
 0.0.0.0 pdns1.ultradns.net
 0.0.0.0 pdns2.ultradns.net
