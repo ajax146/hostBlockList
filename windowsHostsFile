@@ -473,7 +473,9 @@
 0.0.0.0 aidps.atdmt.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 api.redshell.io
+0.0.0.0 appodealx-eu.appgrowth.com
 0.0.0.0 apps.skype.com
+0.0.0.0 ay.gy
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
 0.0.0.0 b.ads1.msn.com
@@ -508,10 +510,13 @@
 0.0.0.0 compatexchange.cloudapp.net
 0.0.0.0 corp.sts.microsoft.com
 0.0.0.0 corpext.msitadfs.glbdns2.microsoft.com
+0.0.0.0 creative-cdn.appgrowth.com
 0.0.0.0 cs1.wpc.v0cdn.net
 0.0.0.0 db3aqu.atdmt.com
 0.0.0.0 df.telemetry.microsoft.com
+0.0.0.0 diagnostics.meethue.com
 0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 e17437.dscb.akamaiedge.net
 0.0.0.0 ec.atdmt.com
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 fe2.update.microsoft.com.akadns.net
@@ -529,6 +534,7 @@
 0.0.0.0 live.rads.msn.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 m.hotmail.com
+0.0.0.0 mp-feedback.cyberghostvpn.com
 0.0.0.0 msedge.net
 0.0.0.0 msftncsi.com
 0.0.0.0 msnbot-65-55-108-23.search.msn.com
@@ -538,6 +544,7 @@
 0.0.0.0 pre.footprintpredict.com
 0.0.0.0 preview.msn.com
 0.0.0.0 pricelist.skype.com
+0.0.0.0 qd.admetricspro.com
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
 0.0.0.0 redir.metaservices.microsoft.com
@@ -563,6 +570,7 @@
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 strict.bing.com
 0.0.0.0 survey.watson.microsoft.com
+0.0.0.0 tagan.adlightning.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telecommand.telemetry.microsoft.com.nsatc.net
 0.0.0.0 telemetry.appex.bing.net
@@ -582,4 +590,7 @@
 0.0.0.0 watson.telemetry.microsoft.com.nsatc.net
 0.0.0.0 wes.df.telemetry.microsoft.com
 0.0.0.0 www.bing.com
+0.0.0.0 www.math-aids.com
 0.0.0.0 www.msftncsi.com
+0.0.0.0 www.system1.com
+0.0.0.0 y.sysduo.com
